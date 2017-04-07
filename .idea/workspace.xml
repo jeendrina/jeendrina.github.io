@@ -2,182 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3bbbe64-6eef-406a-89ab-fea75dac3862" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/tile-wide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/tile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/css/nivo-lightbox/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/css/nivo-lightbox/close@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/css/nivo-lightbox/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/css/nivo-lightbox/loading@2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/css/nivo-lightbox/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/css/nivo-lightbox/next@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/css/nivo-lightbox/prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/css/nivo-lightbox/prev@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/about.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/breakfast.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/calorie-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/calorie-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/calorie-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/calorie-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/dinner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/gallery-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/intro-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/lunch.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/menu-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/01-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/01-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/02-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/02-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/03-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/03-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/04-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/04-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/05-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/05-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/06-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/06-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/07-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/07-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/08-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/08-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/09-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/09-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/10-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/10-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/11-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/11-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/12-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/portfolio/12-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/snack.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/team-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/team/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/team/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/team/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/video.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/img/wood.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tile-wide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jeendrina.github.io.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/browserconfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/crossdomain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/doc/TOC.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/doc/css.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/doc/extend.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/doc/faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/doc/html.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/doc/js.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/doc/misc.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/doc/usage.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/humans.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/js/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/js/vendor/jquery-1.12.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/js/vendor/modernizr-2.8.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/browserconfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/crossdomain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/doc/TOC.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/doc/css.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/doc/extend.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/doc/faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/doc/html.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/doc/js.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/doc/misc.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/doc/usage.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/humans.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/vendor/modernizr-2.8.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/.idea/1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/css/nivo-lightbox/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/css/nivo-lightbox/nivo-lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/fonts/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/js/SmoothScroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/js/contact_me.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/js/jqBootstrapValidation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/js/jquery.1.11.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/js/jquery.isotope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/js/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/js/nivo-lightbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/macro-count/mail/contact_me.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/file_content.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/file_existence.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jeendrina.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -249,6 +75,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="jeendrina.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jeendrina.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jeendrina.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
